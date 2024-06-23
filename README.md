@@ -5,7 +5,7 @@ Web Developer, Backend, APIs, Azure, DevOps
 -------------------------------------------
 
 * 🌍  I'm based in Kenya
-* ✉️  You can contact me at [oliverkemei2000@gmail.com](mailto:oliverkemei2000@gmail.com)
+* ✉️  You can contact me at [kemeioliver2000@gmail.com](mailto:kemeioliver2000@gmail.com)
 * 🧠  I'm learning Backend, Azure, DevOps
 * 🤝  I'm open to collaborating on Anything Awesome
 * ⚡  I love soccer (arsenal fan) and Violinist(left handed Violinist )
