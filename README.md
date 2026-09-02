@@ -4,11 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Backend, APIs, Azure, DevOps
 -------------------------------------------
 
-* 🌍  I'm based in Kenya
-* ✉️  You can contact me at [kemeioliver2000@gmail.com](mailto:kemeioliver2000@gmail.com)
-* 🧠  I'm learning Backend, Azure, DevOps
 * 🤝  I'm open to collaborating on Anything Awesome
-* ⚡  I love soccer (arsenal fan) and Violinist(left handed Violinist )
+* ⚡  I love soccer and Violin
 
 <a href="https://www.twitter.com/OllieKem7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/OllieKem7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
